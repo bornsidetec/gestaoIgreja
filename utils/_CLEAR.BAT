@@ -1,0 +1,4 @@
+@ECHO OFF
+DEL *.DCU
+DEL *.DDP
+DEL *.~*

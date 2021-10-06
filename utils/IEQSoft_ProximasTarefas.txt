@@ -1,0 +1,25 @@
+Impressão de Certificados: (Batismo, Ap. Criança, Casamento)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+Processos
+	* ??? Assembléia Geral
+-----------------------------------------------------------------
+??? Módulo de Escola Bíblica
+	* Relatório Diário
+	* Processos
+	* Relatórios
+	* Graficos
+-----------------------------------------------------------------
+??? Módulo de Patrimônio
+	* Registro de Vendas
+-----------------------------------------------------------------
+
+
+
+Criptografia das informações constante no ativador.exe, onde os
+dados de ativação trabalharão com informação de chave gravada no
+banco.
+
